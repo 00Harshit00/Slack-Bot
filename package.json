@@ -1,0 +1,22 @@
+{
+  "name": "slack-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/00Harshit00/Slack-Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/00Harshit00/Slack-Bot/issues"
+  },
+  "homepage": "https://github.com/00Harshit00/Slack-Bot#readme",
+  "dependencies": {
+    "@slack/bolt": "^3.12.1"
+  }
+}
